@@ -1,0 +1,7 @@
+# Personal harness config
+.claude/settings.local.json
+CLAUDE.local.md
+
+# python
+.venv/
+__pycache__/

@@ -1,0 +1,8 @@
+[submodule "tools/sks-tool"]
+	path = tools/sks-tool
+	url = https://github.com/WSimard47536/sks-tool.git
+	branch = main
+[submodule "systems/embedded-critical"]
+	path = systems/embedded-critical
+	url = https://github.com/RL-Aerospace/embedded-critical.git
+	branch = main
